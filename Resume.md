@@ -6,6 +6,10 @@
     * GitHub: AndrewAscone
     * LinkedIn: Andrew-Ascone
 
+> Dedicated, methodical Software Developer seeking new career challenges by integrating a B.S. in Communications and 7+ years of
+customer service experience. Able to anticipate client needs and produce viable solutions to problems with key skills including effective
+communication, project management, application of technology-based solutions, and data analytics.
+
 ## Technical Skills
 * Java
 * SQL
@@ -44,8 +48,9 @@ Bus Driver
 * Transported 10-12 students on 3 different routes daily in a safe manner, keeping within 3 minutes of estimated arrival time.
 Bev & Wally’s Arcade – Keansburg, NJ Feb 2006 - Aug 2013
 Game Attendant (NJ Boardwalk, worked summer in high school and college)
-Education
-B.S. in Communication – Champlain College, Burlington, VT May 2013
-Dedicated, methodical Software Developer seeking new career challenges by integrating a B.S. in Communications and 7+ years of
-customer service experience. Able to anticipate client needs and produce viable solutions to problems with key skills including effective
-communication, project management, application of technology-based solutions, and data analytics.
+
+## Education
+### Champlain College
+**B.S. in Communication**
+
+*Burlington, VT* | *May 2013*
