@@ -1,6 +1,8 @@
-ANDREW ASCONE Middletown, NJ ▪ (848)218-3402 ▪ Andrew.ascone@gmail.com
+# Andrew Ascone
+Middletown, NJ ▪ (848)218-3402 ▪ Andrew.ascone@gmail.com
 Software Developer GitHub: AndrewAscone ▪ LinkedIn: Andrew-Ascone
-Technical Skills
+
+## Technical Skills
 ▪ Java
 ▪ SQL
 ▪ Spring Boot
@@ -10,7 +12,9 @@ Technical Skills
 ▪ JavaScript
 ▪ Typescript
 ▪ CompTIA A+ (expired 2022)
-Career History
+
+
+## Career History
 Zip Code Wilmington – Wilmington, DE Oct 2022 - Current
 Software Developer
 ▪ Admitted in Zip Code Wilmington’s software development program which accepts less than 10% of applicants; completed over
