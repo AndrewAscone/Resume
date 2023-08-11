@@ -24,9 +24,9 @@ communication, project management, application of technology-based solutions, an
 
 ## Career History
 ### Zip Code Wilmington
-*Wilmington, DE* | *Oct 2022 - Jan 2023*
+*Wilmington, DE*
 
-**Software Developer**
+**Software Developer** | *Oct 2022 - Jan 2023*
 * Admitted in Zip Code Wilmington’s software development program which accepts less than 10% of applicants; completed over 1000 hours of software development projects in immersive, full-stack training using Agile and Scrum methodologies and test-driven development; gained experience with multiple object-oriented programming languages and frameworks.
 
 *Projects*
@@ -39,31 +39,31 @@ communication, project management, application of technology-based solutions, an
     [[ Looking for Guide ]](https://github.com/AndrewAscone/LookingForGuide)
 
 ### Monmouth Telecom
-*Red Bank, NJ* | *May 2022 – Oct 2022*
+*Red Bank, NJ*
 
-**Network Operations Tech**
+**Network Operations Tech** | *May 2022 – Oct 2022*
 * Coordinated with a team of 4 troubleshooting and resolving technical issues related to routing services and telephone equipment; provided excellent customer service to an average of 8 clients per day.
 
 ### ReUnion Rx
-*Atlantic Highlands, NJ* | *Dec 2017 – Oct 2022*
+*Atlantic Highlands, NJ*
 
-**Pharmaceutical Delivery Driver**
+**Pharmaceutical Delivery Driver** | *Dec 2017 – Oct 2022*
 * Delivered vital pharmaceutical products to nursing homes and mental health facilities with 100% accuracy achieved by verifying stocks of medications and maintaining computer inventory records.
 
 ### Shamrock Stagecoach
-*Keansburg, NJ* | *Feb 2015 – May 2022*
+*Keansburg, NJ*
 
-**Bus Driver**
+**Bus Driver** | *Feb 2015 – May 2022*
 * Transported 10-12 students on 3 different routes daily in a safe manner, keeping within 3 minutes of estimated arrival time.
 
 ### Bev & Wally’s Arcade
-*Keansburg, NJ* *Feb 2006 - Aug 2013*
+*Keansburg, NJ*
 
-**Game Attendant**
+**Game Attendant** | *Feb 2006 - Aug 2013*
 * Worked summers in high school and college, assisted customers in fast-paced environment in arcade on NJ boardwalk, performed minor machine maintenance, maintained arcade cleanliness
 
 ## Education
 ### Champlain College
-**B.S. in Communication**
+*Burlington, VT*
 
-*Burlington, VT* | *May 2013*
+**B.S. in Communication** | *May 2013*
