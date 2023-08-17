@@ -67,3 +67,5 @@ communication, project management, application of technology-based solutions, an
 *Burlington, VT*
 
 **B.S. in Communication** | *May 2013*
+
+***
