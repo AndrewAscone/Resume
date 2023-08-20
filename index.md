@@ -1,8 +1,7 @@
 # Andrew Ascone
-**Middletown, NJ**
+*Middletown, NJ*
 
 (848) 218-3402 | andrew.ascone@gmail.com
-
 * Software Developer
     * GitHub: AndrewAscone
     * LinkedIn: Andrew-Ascone
