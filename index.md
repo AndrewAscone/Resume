@@ -2,9 +2,10 @@
 *Middletown, NJ*
 
 (848) 218-3402 | andrew.ascone@gmail.com
-* Software Developer
-    * GitHub: AndrewAscone
-    * LinkedIn: Andrew-Ascone
+
+Software Developer
+* GitHub: AndrewAscone
+* LinkedIn: Andrew-Ascone
 
 > Dedicated, methodical Software Developer seeking new career challenges by integrating a B.S. in Communications and 7+ years of
 customer service experience. Able to anticipate client needs and produce viable solutions to problems with key skills including effective
@@ -27,7 +28,7 @@ communication, project management, application of technology-based solutions, an
 *Wilmington, DE*
 
 **Software Developer** | *Oct 2022 - Jan 2023*
-* Admitted in Zip Code Wilmington’s software development program which accepts less than 10% of applicants; completed over 1000 hours of software development projects in immersive, full-stack training using Agile and Scrum methodologies and test-driven development; gained experience with multiple object-oriented programming languages and frameworks.
+* Admitted in and completed Zip Code Wilmington’s software development program which accepts less than 10% of applicants; completed over 1000 hours of software development projects in immersive, full-stack training using Agile and Scrum methodologies and test-driven development; gained experience with multiple object-oriented programming languages and frameworks.
 
 *Projects*
 * Group Project: Dialogue Alley - Collaboratively worked on a team of 3 to develop an online forum capable of posting messages, tagging other users, uploading images, and filtering content by user or by hashtag. Personally contributed to the front-end design using React and creating the REST API with Spring Boot. Developed using Java, Spring Boot, React, and MySQL 
