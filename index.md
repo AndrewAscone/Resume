@@ -4,8 +4,8 @@
 (848) 218-3402 | andrew.ascone@gmail.com
 
 Software Developer
-* GitHub: AndrewAscone
-* LinkedIn: Andrew-Ascone
+* GitHub: [AndrewAscone](https://github.com/AndrewAscone)
+* LinkedIn: [Andrew-Ascone](https://www.linkedin.com/in/andrew-ascone/)
 
 > Dedicated, methodical Software Developer seeking new career challenges by integrating a B.S. in Communications and 7+ years of
 customer service experience. Able to anticipate client needs and produce viable solutions to problems with key skills including effective
@@ -35,7 +35,7 @@ communication, project management, application of technology-based solutions, an
 
     [[ Dialogue Alley ]](https://github.com/Formosa-Twitter/DialogueAlley)
 
-* Passion Project: Looking For Guide - Independently developing a mobile app to act as a companion for large, online games. Designed to create a space for new players to connect with and learn from experienced players. Developed using Java, Spring Boot, React, and MySQL 
+* Personal Project: Demo CRUD Server - Independently developing a mobile app to act as a companion for large, online games. Designed to create a space for new players to connect with and learn from experienced players. Developed using Java, Spring Boot, JQuery, and H2. 
 
     [[ Looking for Guide ]](https://github.com/AndrewAscone/LookingForGuide)
 
