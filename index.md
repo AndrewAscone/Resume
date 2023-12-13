@@ -1,12 +1,14 @@
 # Andrew Ascone
+### Software Developer
 *Middletown, NJ*
 
-(848) 218-3402 | andrew.ascone@gmail.com
-
-Software Developer
+## Contact Information
+* Phone: (848) 218-3402
+* Email: andrew.ascone@gmail.com
 * GitHub: [AndrewAscone](https://github.com/AndrewAscone)
 * LinkedIn: [Andrew-Ascone](https://www.linkedin.com/in/andrew-ascone/)
 
+## Summary
 > Dedicated, methodical Software Developer seeking new career challenges by integrating a B.S. in Communications and 7+ years of
 customer service experience. Able to anticipate client needs and produce viable solutions to problems with key skills including effective
 communication, project management, application of technology-based solutions, and data analytics.
@@ -15,12 +17,12 @@ communication, project management, application of technology-based solutions, an
 * Java
 * SQL
 * Spring Boot
-* React
+* Postman
 * MySQL
 * HTML / CSS
 * JavaScript
 * Typescript
-* CompTIA A+ (expired 2022)
+* Git
 
 
 ## Career History
@@ -30,12 +32,12 @@ communication, project management, application of technology-based solutions, an
 **Software Developer** | *Oct 2022 - Jan 2023*
 * Admitted in and completed Zip Code Wilmington’s software development program which accepts less than 10% of applicants; completed over 1000 hours of software development projects in immersive, full-stack training using Agile and Scrum methodologies and test-driven development; gained experience with multiple object-oriented programming languages and frameworks.
 
-*Projects*
-* Group Project: Dialogue Alley - Collaboratively worked on a team of 3 to develop an online forum capable of posting messages, tagging other users, uploading images, and filtering content by user or by hashtag. Personally contributed to the front-end design using React and creating the REST API with Spring Boot. Developed using Java, Spring Boot, React, and MySQL 
+#### *Projects*
+* *Group Project*: Dialogue Alley - Collaboratively worked on a team of 3 to develop an online forum capable of posting messages, tagging other users, uploading images, and filtering content by user or by hashtag. Personally contributed to the front-end design using React and creating the REST API with Spring Boot. Developed using Java, Spring Boot, React, and MySQL 
 
     [[ Dialogue Alley ]](https://github.com/Formosa-Twitter/DialogueAlley)
 
-* Personal Project: Demo CRUD Server - Developed and deployed a demo server for managing entries in an H2 database. Developed using Java, Spring Boot, JQuery, and H2. [Live demo deployed using render.com](https://demo-crud-server.onrender.com).
+* *Personal Project*: Demo CRUD Server - Developed and deployed a demo server for managing entries in an H2 database. Developed using Java, Spring Boot, JQuery, and H2. [Live demo deployed using render.com](https://demo-crud-server.onrender.com).
 
     [[ Demo CRUD Server ]](https://github.com/AndrewAscone/Demo-CRUD-Server)
 
