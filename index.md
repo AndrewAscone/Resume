@@ -35,9 +35,9 @@ communication, project management, application of technology-based solutions, an
 
     [[ Dialogue Alley ]](https://github.com/Formosa-Twitter/DialogueAlley)
 
-* Personal Project: Demo CRUD Server - Independently developing a mobile app to act as a companion for large, online games. Designed to create a space for new players to connect with and learn from experienced players. Developed using Java, Spring Boot, JQuery, and H2. 
+* Personal Project: Demo CRUD Server - Developed and deployed a demo server for managing entries in an H2 database. Developed using Java, Spring Boot, JQuery, and H2. [Live demo deployed using render.com](https://demo-crud-server.onrender.com).
 
-    [[ Looking for Guide ]](https://github.com/AndrewAscone/LookingForGuide)
+    [[ Demo CRUD Server ]](https://github.com/AndrewAscone/Demo-CRUD-Server)
 
 ### Monmouth Telecom
 *Red Bank, NJ*
